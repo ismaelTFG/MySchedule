@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Schedule</string>
+    <!--Spain-->
+    <string name="calendar_spain">Calendario</string>
+    <string name="tasks_spain">Tareas Pendientes</string>
+    <string name="settings_spain">Ajustes</string>
+    <string name="language_spain">Idioma</string>
+    <string name="color_spain">Color</string>
+    <string name="exit_spain">Salir</string>
+    <string name="title_language_spain">¿Que lenguage quieres?</string>
+    <string name="title_topics_spain">¿Que estilo quieres?</string>
+    <string name="change_spain">Cambiar</string>
+    <string name="not_change_spain">No cambiar</string>
+    <!--English-->
+    <string name="calendar_english">Calendar</string>
+    <string name="tasks_english">Pending tasks</string>
+    <string name="settings_english">Settings</string>
+    <string name="language_english">Language</string>
+    <string name="color_english">Color</string>
+    <string name="exit_english">Exit</string>
+    <string name="title_language_english">What language do you want?</string>
+    <string name="title_topics_english">What style do you want?</string>
+    <string name="change_english">Change</string>
+    <string name="not_change_english">Do not change</string>
+</resources>
