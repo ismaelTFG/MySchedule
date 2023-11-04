@@ -7,10 +7,24 @@
     <string name="language_spain">Idioma</string>
     <string name="color_spain">Color</string>
     <string name="exit_spain">Salir</string>
-    <string name="title_language_spain">¿Que lenguage quieres?</string>
+    <string name="title_language_spain">¿Que lenguaje quieres?</string>
     <string name="title_topics_spain">¿Que estilo quieres?</string>
     <string name="change_spain">Cambiar</string>
     <string name="not_change_spain">No cambiar</string>
+    <string name="add_spain">Añadir</string>
+    <string name="task_spain">Tarea</string>
+    <string name="date_spain">Fecha de inicio</string>
+    <string name="hours_day_spain">Horas por día</string>
+    <string name="total_hours_spain">Horas totales</string>
+    <string name="repeated_spain">La tarea se va a repetir todos los días</string>
+    <string name="priority_spain">La tarea va a tener prioridad</string>
+    <string name="error_date_spain">La fecha no cumple los parámetros</string>
+    <string name="error_time_spain">Las horas no cumple los parámetros</string>
+    <string name="empty_spain">Hay parámetros vacios</string>
+    <string name="priority_text_spain">Tiene prioridad</string>
+    <string name="not_priority_spain">No tiene prioridad</string>
+    <string name="update_spain">Actualizar</string>
+    <string name="top_time_spain">La horas por día no puede superar las horas totales</string>
     <!--English-->
     <string name="calendar_english">Calendar</string>
     <string name="tasks_english">Pending tasks</string>
@@ -22,4 +36,18 @@
     <string name="title_topics_english">What style do you want?</string>
     <string name="change_english">Change</string>
     <string name="not_change_english">Do not change</string>
+    <string name="add_english">Add</string>
+    <string name="task_english">Task</string>
+    <string name="date_english">Start date</string>
+    <string name="hours_day_english">Hours per day</string>
+    <string name="total_hours_english">total hours</string>
+    <string name="repeated_english">The task will be repeated every day</string>
+    <string name="priority_english">The task will take priority</string>
+    <string name="error_date_english">The date does not meet the parameters</string>
+    <string name="error_time_english">The hours do not meet the parameters</string>
+    <string name="empty_english">There are empty parameters</string>
+    <string name="priority_text_english">Has priority</string>
+    <string name="not_priority_english">Does not have priority</string>
+    <string name="update_english">Update</string>
+    <string name="top_time_english">Hours per day cannot exceed total hours</string>
 </resources>

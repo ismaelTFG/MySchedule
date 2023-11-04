@@ -4,7 +4,7 @@ import com.isma.myschedule.R
 
 class VariableLanguage {
     fun language(language: String, type: String): Int{
-        when(language){
+        when(language)  {
             "spain" -> {
                 when(type) {
                     "calendar" -> {
@@ -36,6 +36,48 @@ class VariableLanguage {
                     }
                     "not_change" -> {
                         return R.string.not_change_spain
+                    }
+                    "add" -> {
+                        return R.string.add_spain
+                    }
+                    "task" -> {
+                        return R.string.task_spain
+                    }
+                    "date" -> {
+                        return R.string.date_spain
+                    }
+                    "hours_day" -> {
+                        return R.string.hours_day_spain
+                    }
+                    "total_hours" -> {
+                        return R.string.total_hours_spain
+                    }
+                    "repeated" -> {
+                        return R.string.repeated_spain
+                    }
+                    "priority" -> {
+                        return R.string.priority_spain
+                    }
+                    "error_date" -> {
+                        return R.string.error_date_spain
+                    }
+                    "error_time" -> {
+                        return R.string.error_time_spain
+                    }
+                    "empty" -> {
+                        return R.string.empty_spain
+                    }
+                    "priority_text" -> {
+                        return R.string.priority_text_spain
+                    }
+                    "not_priority" -> {
+                        return R.string.not_priority_spain
+                    }
+                    "update" -> {
+                        return R.string.update_spain
+                    }
+                    "top_time" -> {
+                        return R.string.top_time_spain
                     }
                 }
             }
@@ -70,6 +112,48 @@ class VariableLanguage {
                     }
                     "not_change" -> {
                         return R.string.not_change_english
+                    }
+                    "add" -> {
+                        return R.string.add_english
+                    }
+                    "task" -> {
+                        return R.string.task_english
+                    }
+                    "date" -> {
+                        return R.string.date_english
+                    }
+                    "hours_day" -> {
+                        return R.string.hours_day_english
+                    }
+                    "total_hours" -> {
+                        return R.string.total_hours_english
+                    }
+                    "repeated" -> {
+                        return R.string.repeated_english
+                    }
+                    "priority" -> {
+                        return R.string.priority_english
+                    }
+                    "error_date" -> {
+                        return R.string.error_date_english
+                    }
+                    "error_time" -> {
+                        return R.string.error_time_english
+                    }
+                    "empty" -> {
+                        return R.string.empty_english
+                    }
+                    "priority_text" -> {
+                        return R.string.priority_text_english
+                    }
+                    "not_priority" -> {
+                        return R.string.not_priority_english
+                    }
+                    "update" -> {
+                        return R.string.update_english
+                    }
+                    "top_time" -> {
+                        return R.string.top_time_english
                     }
                 }
             }
